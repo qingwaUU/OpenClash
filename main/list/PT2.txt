@@ -1,6 +1,7 @@
 DOMAIN-KEYWORD,announce
 DOMAIN-KEYWORD,torrent
 DOMAIN-KEYWORD,tracker
+DOMAIN-KEYWORD,qingyunti.pro
 DOMAIN-SUFFIX,1ptba.com
 DOMAIN-SUFFIX,52pt.site
 DOMAIN-SUFFIX,aidoru-online.me
