@@ -1,22 +1,23 @@
-payload:
-  - DOMAIN,steambroadcast.akamaized.net
-  - DOMAIN,steamcommunity-a.akamaihd.net
-  - DOMAIN,steampipe.akamaized.net
-  - DOMAIN,steamstore-a.akamaihd.net
-  - DOMAIN,steamusercontent-a.akamaihd.net
-  - DOMAIN,steamuserimages-a.akamaihd.net
-  - DOMAIN,fanatical.com
-  - DOMAIN,humblebundle.com
-  - DOMAIN,playartifact.com
-  - DOMAIN,steam-chat.com
-  - DOMAIN,steamcommunity.com
-  - DOMAIN,steamgames.com
-  - DOMAIN,steampowered.com
-  - DOMAIN,steamserver.net
-  - DOMAIN,steamstat.us
-  - DOMAIN,steamstatic.com
-  - DOMAIN,underlords.com
-  - DOMAIN,valvesoftware.com
-  - DOMAIN,byrutgame.org
-  - DOMAIN,laowang.vip
-  - DOMAIN,xsijishe.com
+DOMAIN,steambroadcast.akamaized.net
+DOMAIN,steamcommunity-a.akamaihd.net
+DOMAIN,steampipe.akamaized.net
+DOMAIN,steamstore-a.akamaihd.net
+DOMAIN,steamusercontent-a.akamaihd.net
+DOMAIN,steamuserimages-a.akamaihd.net
+DOMAIN,fanatical.com
+DOMAIN,humblebundle.com
+DOMAIN,playartifact.com
+DOMAIN,steam-chat.com
+DOMAIN,steamcommunity.com
+DOMAIN,steamgames.com
+DOMAIN,steampowered.com
+DOMAIN,steamserver.net
+DOMAIN,steamstat.us
+DOMAIN,steamstatic.com
+DOMAIN,underlords.com
+DOMAIN,valvesoftware.com
+DOMAIN,byrutgame.org
+DOMAIN,laowang.vip
+DOMAIN,xsijishe.com
+
+
