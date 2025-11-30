@@ -1,0 +1,125 @@
+# —— 核心大模型平台 ——
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,cohere.ai
+DOMAIN-SUFFIX,mistral.ai
+DOMAIN-SUFFIX,together.ai
+DOMAIN-SUFFIX,ai.com
+
+# —— AI API 服务 / 开发者平台 ——
+DOMAIN-SUFFIX,openai.azure.com
+DOMAIN-SUFFIX,azure.com
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,bedrock.amazonaws.com
+DOMAIN-SUFFIX,together.xyz
+DOMAIN-SUFFIX,replicate.com
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,openrouter.ai
+DOMAIN-SUFFIX,runpod.io
+DOMAIN-SUFFIX,modal.com
+DOMAIN-SUFFIX,anyscale.com
+
+# —— AI 搜索引擎 ——
+DOMAIN-SUFFIX,phind.com
+DOMAIN-SUFFIX,search.brave.com
+DOMAIN-SUFFIX,you.com
+DOMAIN-SUFFIX,kagi.com
+
+# —— AI 聊天聚合 / 平台 —— 
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,quora.com
+DOMAIN-SUFFIX,forefront.ai
+
+# —— AI 绘图 / 图像生成 ——
+DOMAIN-SUFFIX,midjourney.com
+DOMAIN-SUFFIX,midjourney.ai
+DOMAIN-SUFFIX,stability.ai
+DOMAIN-SUFFIX,stablediffusionapi.com
+DOMAIN-SUFFIX,runwayml.com
+DOMAIN-SUFFIX,ideogram.ai
+DOMAIN-SUFFIX,leonardo.ai
+DOMAIN-SUFFIX,clipdrop.co
+DOMAIN-SUFFIX,canva.com
+DOMAIN-SUFFIX,adobe.com
+DOMAIN-SUFFIX,pixai.art
+
+# —— AI 视频生成 ——
+DOMAIN-SUFFIX,pika.art
+DOMAIN-SUFFIX,heygen.com
+DOMAIN-SUFFIX,synthesia.io
+DOMAIN-SUFFIX,kolors.com
+DOMAIN-SUFFIX,runwayml.com
+
+# —— AI 音频 / 语音 ——
+DOMAIN-SUFFIX,descript.com
+DOMAIN-SUFFIX,voicemod.net
+DOMAIN-SUFFIX,play.ht
+DOMAIN-SUFFIX,elevenlabs.io
+
+# —— AI 编程助手 ——
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,github.dev
+DOMAIN-SUFFIX,codeium.com
+DOMAIN-SUFFIX,tabnine.com
+DOMAIN-SUFFIX,replit.com
+DOMAIN-SUFFIX,windmill.dev
+
+# —— AI 文档 / 办公 ——
+DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,notion-static.com
+DOMAIN-SUFFIX,tome.app
+DOMAIN-SUFFIX,glasp.co
+DOMAIN-SUFFIX,grammarly.com
+DOMAIN-SUFFIX,superhuman.com
+DOMAIN-SUFFIX,beautiful.ai
+
+# —— AI 教育 / 学习 ——
+DOMAIN-SUFFIX,khanacademy.org
+DOMAIN-SUFFIX,wolfram.com
+DOMAIN-SUFFIX,wolframalpha.com
+
+# —— AI 浏览器工具 ——
+DOMAIN-SUFFIX,arc.net
+DOMAIN-SUFFIX,arc.dev
+
+# —— AI 设计 / UI 工具 ——
+DOMAIN-SUFFIX,figma.com
+DOMAIN-SUFFIX,uxwing.com
+DOMAIN-SUFFIX,penpot.app
+
+# —— AI 自动化 / 助手 ——
+DOMAIN-SUFFIX,ifttt.com
+DOMAIN-SUFFIX,zapier.com
+DOMAIN-SUFFIX,make.com
+
+# —— AI 聚合工具 / Prompt 相关 ——
+DOMAIN-SUFFIX,promptperfect.com
+DOMAIN-SUFFIX,promptbase.com
+DOMAIN-SUFFIX,flowgpt.com
+DOMAIN-SUFFIX,promptsea.io
+DOMAIN-SUFFIX,aiprm.com
+
+# —— AI 翻译 / 语言处理 ——
+DOMAIN-SUFFIX,deepl.com
+DOMAIN-SUFFIX,miraitranslate.com
+DOMAIN-SUFFIX,reverso.net
+DOMAIN-SUFFIX,papago.naver.com
+
+# —— AI 安全 / 对话检测 ——
+DOMAIN-SUFFIX,generativeai.dev
+DOMAIN-SUFFIX,openai-labs.com
+
