@@ -3,14 +3,58 @@
 
 
 # IP段匹配
+
+
+
+# IP-CIDR,23.145.120.0/24,no-resolve 
+
+
+
+
+
+# AI
+# DOMAIN,ai.opendoor.cn
+
+# capcut
+
+# 小牛
+# DOMAIN-SUFFIX,xiaoniuyun.cc
+
+# ssrdog
+
+
+# 国外DNS
+
+# 其他网站
+
+
+
+
+
+
+
+# 小牛机场
+
+# DOMAIN-SUFFIX,groq.com
+# DOMAIN-SUFFIX,difyai.com
+
+
+
+
+
+
+
+
+
+
+# DOMAIN-SUFFIX,steampowered.com
+
+
 IP-CIDR,142.171.133.0/24,no-resolve
 IP-CIDR,103.115.43.0/24,no-resolve
-
 IP-CIDR,192.81.209.0/24,no-resolve
 IP-CIDR,198.211.96.0/24,no-resolve
 IP-CIDR,66.85.186.0/24,no-resolve
-
-
 IP-CIDR,104.236.69.0/24,no-resolve
 IP-CIDR,95.161.76.0/24,no-resolve
 IP-CIDR,142.251.215.0/24,no-resolve
@@ -46,7 +90,6 @@ IP-CIDR,188.191.197.0/24,no-resolve
 IP-CIDR,31.13.75.0/24,no-resolve 
 IP-CIDR,62.181.50.0/24,no-resolve 
 IP-CIDR,90.21.198.0/24,no-resolve 
-IP-CIDR,90.21.198.0/24,no-resolve 
 IP-CIDR,109.198.201.0/24,no-resolve 
 IP-CIDR,176.211.207.0/24,no-resolve 
 IP-CIDR,178.185.59.0/24,no-resolve 
@@ -54,18 +97,14 @@ IP-CIDR,94.241.215.0/24,no-resolve
 IP-CIDR,211.179.102.0/24,no-resolve 
 IP-CIDR,84.3.176.0/24,no-resolve 
 IP-CIDR,5.28.195.0/24,no-resolve 
-IP-CIDR,62.181.50.0/24,no-resolve 
 IP-CIDR,185.65.134.0/24,no-resolve 
 IP-CIDR,189.79.31.0/24,no-resolve 
 IP-CIDR,89.222.178.0/24,no-resolve 
-IP-CIDR,94.241.215.0/24,no-resolve 
 IP-CIDR,49.205.113.0/24,no-resolve 
 IP-CIDR,96.231.131.0/24,no-resolve 
 IP-CIDR,92.245.43.0/24,no-resolve 
-IP-CIDR,189.79.31.0/24,no-resolve 
 IP-CIDR,37.214.31.0/24,no-resolve 
 IP-CIDR,172.219.73.0/24,no-resolve 
-IP-CIDR,49.205.113.0/24,no-resolve 
 IP-CIDR,180.70.58.0/24,no-resolve 
 IP-CIDR,95.25.159.0/24,no-resolve 
 IP-CIDR,135.135.92.0/24,no-resolve 
@@ -122,7 +161,6 @@ IP-CIDR,23.158.56.0/24,no-resolve
 IP-CIDR,95.111.230.0/24,no-resolve 
 IP-CIDR,97.130.235.0/24,no-resolve 
 IP-CIDR,43.226.16.0/24,no-resolve 
-# IP-CIDR,23.145.120.0/24,no-resolve 
 IP-CIDR,206.190.238.0/24,no-resolve 
 IP-CIDR,185.36.195.0/24,no-resolve 
 IP-CIDR,36.228.79.0/24,no-resolve 
@@ -143,50 +181,29 @@ IP-CIDR,58.115.164.0/24,no-resolve
 IP-CIDR,161.142.117.0/24,no-resolve 
 IP-CIDR,46.3.240.0/24,no-resolve 
 IP-CIDR,45.87.172.0/24,no-resolve 
-
-
 DOMAIN-SUFFIX,clash-cn.com
-
 DOMAIN-SUFFIX,luminati.io
 DOMAIN-SUFFIX,mifjun.com
 DOMAIN-SUFFIX,nbr.co.nz
-
 DOMAIN-SUFFIX,iill.top
-
-# AI
-# DOMAIN,ai.opendoor.cn
-
-# capcut
 DOMAIN-SUFFIX,capcut.com
-
-# 小牛
-# DOMAIN-SUFFIX,xiaoniuyun.cc
-
 DOMAIN-SUFFIX,fastlydns.net
 DOMAIN-SUFFIX,bncrcloud.com
-# ssrdog
 DOMAIN-SUFFIX,ssrdog222.com
 DOMAIN-SUFFIX,hosbbq.com
 DOMAIN-SUFFIX,ssrdog7.com
 DOMAIN-SUFFIX,ssrdog8.com
 DOMAIN-SUFFIX,ssrdog9.com
 DOMAIN-SUFFIX,ssrdog.com
-
-
-# 国外DNS
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
 DOMAIN-SUFFIX,dot.sb
 DOMAIN-SUFFIX,dns.umbrella.com
 DOMAIN-SUFFIX,dns.quad9.net
-DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,doh.dns.sb
 DOMAIN-SUFFIX,doh.opendns.com
-DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
-
-# 其他网站
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,gstatic.com
@@ -207,27 +224,17 @@ DOMAIN-SUFFIX,itzmx.com
 DOMAIN-SUFFIX,iriseden.eu
 DOMAIN-SUFFIX,shittyurl.org
 DOMAIN-SUFFIX,i2p.rocks
-DOMAIN-SUFFIX,shittyurl.org
 DOMAIN-SUFFIX,filetracker.xyz
 DOMAIN-SUFFIX,altrosky.nl
 DOMAIN-SUFFIX,leech.ie
-
 DOMAIN-SUFFIX,svcloud.one
-
 DOMAIN-SUFFIX,v1.mk
-
 DOMAIN-SUFFIX,eohut.com
-
 DOMAIN-SUFFIX,ednovas.tech
-
-
-
-# 小牛机场
 DOMAIN-SUFFIX,vns735p8.xyz
 DOMAIN-SUFFIX,i4z65c0h.xyz
 DOMAIN-SUFFIX,v140oy1s.xyz
 DOMAIN-SUFFIX,tcb54710.xyz
-
 DOMAIN-SUFFIX,polymarket.com
 DOMAIN-SUFFIX,cacapex.com
 DOMAIN-SUFFIX,1lib.sk
@@ -253,20 +260,15 @@ DOMAIN-SUFFIX,browserleaks.net
 DOMAIN-SUFFIX,surfsharkdns.com
 DOMAIN-SUFFIX,llgjc1.com
 DOMAIN-SUFFIX,qichiyu.com
-# DOMAIN-SUFFIX,groq.com
-# DOMAIN-SUFFIX,difyai.com
 DOMAIN-SUFFIX,hsy88.org
 DOMAIN-SUFFIX,xn--mes358acgm99l.com
 DOMAIN-SUFFIX,dnsleaktest.org
 DOMAIN-SUFFIX,nmnm.fun
-
 DOMAIN-SUFFIX,extrabux.com
 DOMAIN-SUFFIX,wallvpn.com
 DOMAIN-SUFFIX,pig.ws
 DOMAIN-SUFFIX,ldmnq.com
-
 DOMAIN-SUFFIX,lightningxvpn.com
-
 DOMAIN-SUFFIX,stotik.com
 DOMAIN-SUFFIX,streetfighter.com
 DOMAIN-SUFFIX,capcom.com
@@ -276,13 +278,9 @@ DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,socialchain.app
 DOMAIN-SUFFIX,onesignal.com
 DOMAIN-SUFFIX,coinglass.com
-
 DOMAIN-SUFFIX,fiverr.com
 DOMAIN-SUFFIX,ebay.com
-
-
 DOMAIN-SUFFIX,kjfx.cc
-
 DOMAIN-SUFFIX,hlive.io
 DOMAIN-SUFFIX,ndmdhs.com
 DOMAIN-SUFFIX,anygate.vip
@@ -291,9 +289,7 @@ DOMAIN-SUFFIX,bitwayeat.com
 DOMAIN-SUFFIX,etcbbi.xyz
 DOMAIN-SUFFIX,etcbbf.xyz
 DOMAIN-SUFFIX,etcbbj.xyz
-DOMAIN-SUFFIX,etcbbi.xyz
 DOMAIN-SUFFIX,etcbbh.xyz
-DOMAIN-SUFFIX,etcbbf.xyz
 DOMAIN-SUFFIX,etcbbg.xyz
 DOMAIN-SUFFIX,bugsnag.com
 DOMAIN-SUFFIX,pipecdn.vip
@@ -302,9 +298,7 @@ DOMAIN-SUFFIX,tfboyaac.com
 DOMAIN-SUFFIX,tfboyaab.com
 DOMAIN-SUFFIX,aiyifan.tv
 DOMAIN-SUFFIX,tfboyaaa.com
-
 DOMAIN-SUFFIX,canva.com
-
 DOMAIN-SUFFIX,waytogone.com
 DOMAIN-SUFFIX,timeprecei.com
 DOMAIN-SUFFIX,etcbbb.xyz
@@ -313,9 +307,7 @@ DOMAIN-SUFFIX,tfbgaaa.com
 DOMAIN-SUFFIX,etcbba.xyz
 DOMAIN-SUFFIX,tfboyaae.com
 DOMAIN-SUFFIX,tfboyaad.com
-
 DOMAIN-SUFFIX,polivera.ai
-DOMAIN-SUFFIX,asiassn.com
 DOMAIN-SUFFIX,mmcks.top
 DOMAIN-SUFFIX,needay.xyz
 DOMAIN-SUFFIX,mzzxuh.com
@@ -327,7 +319,6 @@ DOMAIN-SUFFIX,xiaoxintv.cc
 DOMAIN-SUFFIX,69yun.top
 DOMAIN-SUFFIX,nivodi.com
 DOMAIN-SUFFIX,steamcommunity.com
-# DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,abcproxy.com
 DOMAIN-SUFFIX,piliapp.com
 DOMAIN-SUFFIX,meijutt.cc
@@ -347,7 +338,6 @@ DOMAIN-SUFFIX,bulianglin.com
 DOMAIN-SUFFIX,coincola.com
 DOMAIN-SUFFIX,coincolacdn.com
 DOMAIN-SUFFIX,colaotc.com
-
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
 IP-CIDR,1.1.1.1/32,no-resolve
