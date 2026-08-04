@@ -1,3 +1,68 @@
-# Copilot.list — Microsoft Copilot 规则（copilot.microsoft.com 等）
+# Copilot.list — Microsoft Copilot / Bing Chat AI 规则
+# 包含：Copilot 网页版、Bing Chat、Copilot API、Microsoft AI 服务
+#
+# === Copilot 核心域名 ===
 DOMAIN,copilot.microsoft.com
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,edgeservices.bing.com
+DOMAIN,www.bing.com
+DOMAIN,r.bing.com
+DOMAIN,sydney.bing.com
 DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bingapis.com
+DOMAIN,services.bingapis.com
+DOMAIN-SUFFIX,bing-shopping.microsoft-falcon.io
+#
+# === Microsoft AI 平台 ===
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN,api.msn.com
+DOMAIN,assets.msn.com
+DOMAIN,api.microsoftapp.net
+DOMAIN-SUFFIX,api.microsoftapp.net
+DOMAIN,location.microsoft.com
+DOMAIN-SUFFIX,ai.azure.com
+DOMAIN-SUFFIX,cognitiveservices.azure.com
+DOMAIN-SUFFIX,openai.azure.com
+#
+# === Copilot 认证与监控 ===
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,sentry.io
+DOMAIN,api.statsig.com
+DOMAIN,browser-intake-datadoghq.com
+DOMAIN-SUFFIX,observeit.net
+DOMAIN-SUFFIX,identrust.com
+DOMAIN,static.cloudflareinsights.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+#
+# === Copilot 生态工具 ===
+DOMAIN-SUFFIX,github.com
+DOMAIN,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,visualstudio.com
+DOMAIN-SUFFIX,vscode.dev
+DOMAIN,code.visualstudio.com
+#
+# === Microsoft Designer / Image Creator ===
+DOMAIN-SUFFIX,designer.microsoft.com
+DOMAIN-SUFFIX,designer.microsoft.com
+DOMAIN,designer.microsoft.com
+DOMAIN,creator.microsoft.com
+#
+# === Microsoft 365 Copilot ===
+DOMAIN-SUFFIX,office.com
+DOMAIN,odc.officeapps.live.com
+DOMAIN-SUFFIX,office.net
+DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,microsoft365.com
+DOMAIN,in.appcenter.ms
+DOMAIN-SUFFIX,appcenter.ms
+#
+# === Edge Copilot 侧边栏 ===
+DOMAIN-SUFFIX,edge.microsoft.com
+DOMAIN,edge.api.microsoftedge.com
