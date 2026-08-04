@@ -1,4 +1,28 @@
-# Claude.list — Anthropic Claude AI 规则（claude.ai、anthropic.com 等）
-DOMAIN,cdn.usefathom.com
+# Claude.list — Anthropic Claude AI 规则
+# 来源：xiaolai/anthropic-claude-surge-rules-set + blackmatrix7 + 实测
+# 包含：Claude 网页版、API、CLI、MCP协议、二进制分发等
+#
+# === Anthropic 核心基础设施 ===
 DOMAIN-SUFFIX,anthropic.com
+#
+# === Claude 产品域名 ===
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,clau.de
+#
+# === MCP 协议 ===
+DOMAIN-SUFFIX,modelcontextprotocol.io
+#
+# === Claude CLI 二进制分发 ===
+DOMAIN,downloads.claude.ai
+DOMAIN,storage.googleapis.com
+#
+# === 功能标志与遥测 ===
+DOMAIN,cdn.growthbook.io
+DOMAIN,cdn.usefathom.com
+#
+# === Anthropic IP 段 ===
+IP-CIDR,160.79.104.0/23,no-resolve
+IP-CIDR,160.79.104.0/21,no-resolve
+IP-CIDR6,2607:6bc0::/48,no-resolve
