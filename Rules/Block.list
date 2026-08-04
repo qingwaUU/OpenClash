@@ -1,3 +1,4 @@
+# Block.list — 拦截规则（广告/追踪等需要屏蔽的域名）
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,adobedtm.com
 DOMAIN-SUFFIX,adobe.io
