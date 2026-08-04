@@ -1,0 +1,4 @@
+# Claude.list — Anthropic Claude AI 规则（claude.ai、anthropic.com 等）
+DOMAIN,cdn.usefathom.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
