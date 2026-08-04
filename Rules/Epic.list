@@ -1,16 +1,42 @@
-# Epic.list — Epic Games 游戏平台规则（epicgames.com、unrealengine.com 等）
-DOMAIN-SUFFIX,battlebreakers.com
-DOMAIN-SUFFIX,eac-cdn.com
-DOMAIN-SUFFIX,easy.ac
-DOMAIN-SUFFIX,easyanticheat.net
+# Epic.list — Epic Games 游戏平台规则
+# 包含：Epic Games Store、Fortnite、虚幻引擎、Quixel、ArtStation 等
+#
+# === Epic Games 核心 ===
 DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,epicgames.dev
+DOMAIN-SUFFIX,epicgamescdn.com
+#
+# === Epic 旗下游戏 ===
 DOMAIN-SUFFIX,fortnite.com
-DOMAIN-SUFFIX,helpshift.com
-DOMAIN-SUFFIX,paragon.com
-DOMAIN-SUFFIX,playparagon.com
-DOMAIN-SUFFIX,roborecall.com
-DOMAIN-SUFFIX,shadowcomplex.com
-DOMAIN-SUFFIX,spyjinx.com
 DOMAIN-SUFFIX,unrealengine.com
 DOMAIN-SUFFIX,unrealtournament.com
+DOMAIN-SUFFIX,battlebreakers.com
+DOMAIN-SUFFIX,paragon.com
+DOMAIN-SUFFIX,playparagon.com
+DOMAIN-SUFFIX,shadowcomplex.com
+DOMAIN-SUFFIX,spyjinx.com
+DOMAIN-SUFFIX,kirbysepicyarn.com
+#
+# === Epic 收购/子公司 ===
+DOMAIN-SUFFIX,quixel.com
+DOMAIN-SUFFIX,quixel.se
+DOMAIN-SUFFIX,sketchfab.com
+DOMAIN-SUFFIX,artstation.com
+DOMAIN-SUFFIX,twinmotion.com
+DOMAIN-SUFFIX,3lateral.com
+DOMAIN-SUFFIX,capturingreality.com
+DOMAIN-SUFFIX,cubicmotion.com
+DOMAIN-SUFFIX,hyprsense.com
+DOMAIN-SUFFIX,radgametools.com
+DOMAIN-SUFFIX,realityscan.com
+DOMAIN-SUFFIX,roborecall.com
+DOMAIN-SUFFIX,fab.com
+#
+# === EasyAntiCheat 反作弊 ===
+DOMAIN-SUFFIX,easy.ac
+DOMAIN-SUFFIX,easyanticheat.net
+DOMAIN-SUFFIX,eac-cdn.com
+#
+# === CDN / 下载 ===
+DOMAIN,egdownload.fastly-edge.com
+DOMAIN,fortnite-vod.akamaized.net
