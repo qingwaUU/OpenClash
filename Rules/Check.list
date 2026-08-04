@@ -1,3 +1,4 @@
+# Check.list — 测试规则（用于验证代理连通性）
 IP-CIDR,142.251.215.0/24,no-resolve
 
 DOMAIN-SUFFIX,yalala.com
