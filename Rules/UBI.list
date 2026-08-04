@@ -1,6 +1,6 @@
 # UBI.list — 育碧（Ubisoft）游戏规则
-# 包含：Ubisoft Connect、Uplay、育碧官网、云存档等
-# 来源：v2fly/domain-list-community + blackmatrix7 + DNS枚举
+# 来源：v2fly/domain-list-community + blackmatrix7 + hackertarget DNS枚举
+# 包含：Ubisoft Connect、Uplay、CDN、云存档、反作弊等
 #
 # === 育碧核心域名 ===
 DOMAIN-SUFFIX,ubi.com
@@ -9,10 +9,39 @@ DOMAIN-SUFFIX,ubisoft.org
 DOMAIN-SUFFIX,ubisoftconnect.com
 DOMAIN-SUFFIX,uplay.com
 #
-# === 育碧云存档 / CDN ===
+# === 育碧 Akamai CDN（24个节点）===
+DOMAIN,ubistatic1-a.akamaihd.net
+DOMAIN,ubistatic2-a.akamaihd.net
+DOMAIN,ubistatic3-a.akamaihd.net
+DOMAIN,ubistatic4-a.akamaihd.net
+DOMAIN,ubistatic5-a.akamaihd.net
+DOMAIN,ubistatic6-a.akamaihd.net
+DOMAIN,ubistatic7-a.akamaihd.net
+DOMAIN,ubistatic8-a.akamaihd.net
+DOMAIN,ubistatic9-a.akamaihd.net
+DOMAIN,ubistatic10-a.akamaihd.net
+DOMAIN,ubistatic11-a.akamaihd.net
+DOMAIN,ubistatic12-a.akamaihd.net
+DOMAIN,ubistatic13-a.akamaihd.net
+DOMAIN,ubistatic14-a.akamaihd.net
+DOMAIN,ubistatic15-a.akamaihd.net
+DOMAIN,ubistatic16-a.akamaihd.net
+DOMAIN,ubistatic17-a.akamaihd.net
+DOMAIN,ubistatic18-a.akamaihd.net
+DOMAIN,ubistatic19-a.akamaihd.net
+DOMAIN,ubistatic20-a.akamaihd.net
+DOMAIN,ubistatic21-a.akamaihd.net
+DOMAIN,ubistatic22-a.akamaihd.net
+DOMAIN,ubistatic23-a.akamaihd.net
+DOMAIN,ubistatic24-a.akamaihd.net
+#
+# === 育碧云存档 ===
 DOMAIN,ubisoft-orbit-savegames.s3.amazonaws.com
 DOMAIN,ubisoft-uplay-savegames.s3.amazonaws.com
+#
+# === 育碧 CDN ===
 DOMAIN,static8.cdn.ubi.com
+DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
 #
 # === 育碧反作弊 ===
-DOMAIN-SUFFIX,battlEye.com
+DOMAIN-SUFFIX,battleye.com
