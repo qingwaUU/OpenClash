@@ -1,6 +1,6 @@
 # Claude.list — Anthropic Claude AI 规则
-# 来源：xiaolai/anthropic-claude-surge-rules-set + blackmatrix7 + 实测
-# 包含：Claude 网页版、API、CLI、MCP协议、二进制分发等
+# 来源：xiaolai/anthropic-claude-surge-rules-set + blackmatrix7 + v2fly + sarices gist
+# 包含：Claude 网页版、API、CLI、MCP协议、二进制分发、IP段等
 #
 # === Anthropic 核心基础设施 ===
 DOMAIN-SUFFIX,anthropic.com
@@ -11,18 +11,24 @@ DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,clau.de
 #
-# === MCP 协议 ===
+# === MCP 相关域名 ===
 DOMAIN-SUFFIX,modelcontextprotocol.io
+DOMAIN-SUFFIX,claudemcpclient.com
+DOMAIN-SUFFIX,claudemcpcontent.com
 #
-# === Claude CLI 二进制分发 ===
+# === Claude CLI / 二进制分发 ===
 DOMAIN,downloads.claude.ai
 DOMAIN,storage.googleapis.com
+DOMAIN,assets-proxy.anthropic.com
+DOMAIN,servd-anthropic-website.b-cdn.net
 #
-# === 功能标志与遥测 ===
+# === 功能标志 / 遥测 / CDN ===
 DOMAIN,cdn.growthbook.io
 DOMAIN,cdn.usefathom.com
+DOMAIN,browser-intake-us5-datadoghq.com
+DOMAIN,http-intake.logs.us5.datadoghq.com
 #
-# === Anthropic IP 段 ===
+# === Anthropic IP 段 (AS399358) ===
 IP-CIDR,160.79.104.0/23,no-resolve
 IP-CIDR,160.79.104.0/21,no-resolve
 IP-CIDR6,2607:6bc0::/48,no-resolve
