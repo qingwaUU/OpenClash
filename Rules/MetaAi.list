@@ -1,24 +1,18 @@
 # MetaAi.list — Meta AI 规则（Meta 公司所有AI相关服务）
 # 包含：Meta AI 聊天、Llama 模型、PyTorch、FAISS、Segment Anything 等
 #
-# === Meta AI 核心服务 ===
+# === Meta AI 核心产品 ===
 DOMAIN-SUFFIX,meta.ai
-DOMAIN-SUFFIX,ai.meta.com
-DOMAIN-SUFFIX,meta.com
 DOMAIN,ai.meta.com
 DOMAIN,www.meta.ai
 #
-# === Llama 模型与社区 ===
+# === Llama 模型下载与文档 ===
 DOMAIN-SUFFIX,llama.meta.com
-DOMAIN-SUFFIX,download.llama.meta.com
-DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN,dllama.meta.com
 DOMAIN,download.llama.meta.com
 #
-# === Meta AI API 与开发者平台 ===
+# === Meta AI 开发者平台 ===
 DOMAIN-SUFFIX,developer.facebook.com
 DOMAIN-SUFFIX,developers.facebook.com
-DOMAIN,graph.meta.com
 #
 # === PyTorch 生态 ===
 DOMAIN-SUFFIX,pytorch.org
@@ -26,31 +20,16 @@ DOMAIN-SUFFIX,pytorch.com
 DOMAIN,www.pytorch.org
 DOMAIN,download.pytorch.org
 DOMAIN,discuss.pytorch.org
-DOMAIN,pytorch.org
-DOMAIN-SUFFIX,torch.io
+DOMAIN,pytorch.ai
 #
-# === Hugging Face 上的 Meta 模型 ===
-DOMAIN-SUFFIX,huggingface.co
-DOMAIN,huggingface.co
-#
-# === Meta AI 研究与工具 ===
-DOMAIN-SUFFIX,faiss.ai
-DOMAIN-SUFFIX,segment-anything.com
-DOMAIN-SUFFIX,sam2.com
-DOMAIN,segment-anything.com
-#
-# === Meta 其他 AI 相关 ===
+# === Meta AI 研究工具 ===
 DOMAIN-SUFFIX,metademolab.com
-DOMAIN,metademolab.com
-DOMAIN-SUFFIX,galaxy.ai
 DOMAIN-SUFFIX,seamless.metademolab.com
+DOMAIN,segment-anything.com
 DOMAIN,sam.meta.com
 #
-# === LlamaIndex / LangChain 等框架（Meta Llama 生态常用）===
-DOMAIN-SUFFIX,llamaindex.ai
-DOMAIN-SUFFIX,run-llama.com
-DOMAIN,discourse.llamaindex.ai
+# === Meta 其他 AI 项目 ===
+DOMAIN-SUFFIX,openinnovation.ai
 #
-# === Meta Horizon / VR AI ===
+# === Meta Horizon AI ===
 DOMAIN-SUFFIX,metaquest.com
-DOMAIN-SUFFIX,oculus.com
