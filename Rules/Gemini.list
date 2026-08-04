@@ -1,13 +1,63 @@
-# Gemini.list — Google Gemini AI 规则（gemini.google.com 等）
+# Gemini.list — Google Gemini / Google AI 规则
+# 包含：Gemini 聊天、AI Studio、Vertex AI、DeepMind、Imagen 等
+#
+# === Gemini 核心产品 ===
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,bard.google.com
+DOMAIN,www.google.com
 DOMAIN-SUFFIX,gemini-pa.googleapis.com
 DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN,ai.google.dev
+DOMAIN-SUFFIX,generativeai.google
+#
+# === Google AI Studio / Makersuite ===
 DOMAIN-SUFFIX,aistudio.google.com
-DOMAIN-SUFFIX,aistudio-pa.clients6.google.com
-DOMAIN-SUFFIX,googleusercontent.com
-DOMAIN-SUFFIX,android.googleapis.com
+DOMAIN,aistudio-pa.clients6.google.com
 DOMAIN-SUFFIX,makersuite.google.com
-
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+#
+# === Vertex AI 云平台 ===
+DOMAIN-SUFFIX,vertexai.google.com
+DOMAIN-SUFFIX,aiplatform.googleapis.com
+DOMAIN-SUFFIX,notebook.googleapis.com
+#
+# === Google DeepMind ===
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,gdm.deepmind.com
+DOMAIN-SUFFIX,gemini.deepmind.com
+#
+# === Google AI API ===
+DOMAIN-SUFFIX,apis.google.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,accounts.google.com
+#
+# === Google Colab (AI开发环境) ===
+DOMAIN-SUFFIX,colab.research.google.com
+DOMAIN-SUFFIX,colab.google.com
+#
+# === Google AI 研究与工具 ===
+DOMAIN-SUFFIX,tensorflow.org
+DOMAIN-SUFFIX,keras.io
+DOMAIN-SUFFIX,jax.readthedocs.io
+DOMAIN-SUFFIX,mediapipe.dev
+DOMAIN-SUFFIX,lit.dev
+#
+# === Google AI Studio 静态资源 ===
+DOMAIN-SUFFIX,fonts.googleapis.com
+DOMAIN-SUFFIX,fonts.gstatic.com
+DOMAIN-SUFFIX,ajax.googleapis.com
+#
+# === Google Imagen / AI 图像生成 ===
+DOMAIN-SUFFIX,imagen.google
+DOMAIN-SUFFIX,imagefx.google.com
+#
+# === Google AI 其他服务 ===
+DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN-SUFFIX,notebooklm.googleusercontent.com
+DOMAIN-SUFFIX,teachablemachine.withgoogle.com
+DOMAIN-SUFFIX,experiments.withgoogle.com
