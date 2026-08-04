@@ -1,5 +1,17 @@
-# PlayStation.list — 索尼 PlayStation 游戏规则（playstation.com 等）
+# PlayStation.list — 索尼 PlayStation 游戏规则
+# 包含：PSN、PS Store、PS Plus、PS Remote Play、云游戏等
+# 来源：blackmatrix7 + LM-Firefly + malikshi + ACL4SSR
+#
+# === PlayStation 核心域名 ===
 DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,playstation.net
-DOMAIN-SUFFIX,playstationnetwork.com
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com
+DOMAIN-SUFFIX,psn.com
+#
+# === PlayStation 云游戏 / 流媒体 ===
+DOMAIN-SUFFIX,gaikai.com
+DOMAIN-SUFFIX,playstation-cloud.net
+#
+# === Sony 娱乐相关 ===
+DOMAIN-SUFFIX,sony.com
+DOMAIN-SUFFIX,sonystorage.com
