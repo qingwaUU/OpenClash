@@ -1,6 +1,18 @@
-# UBI.list — 育碧游戏规则（ubisoft.com、ubi.com 等）
+# UBI.list — 育碧（Ubisoft）游戏规则
+# 包含：Ubisoft Connect、Uplay、育碧官网、云存档等
+# 来源：v2fly/domain-list-community + blackmatrix7 + DNS枚举
+#
+# === 育碧核心域名 ===
 DOMAIN-SUFFIX,ubi.com
-DOMAIN-SUFFIX,ubisoft-orbit-savegames.s3.amazonaws.com
-DOMAIN-SUFFIX,ubisoft-uplay-savegames.s3.amazonaws.com
 DOMAIN-SUFFIX,ubisoft.com
+DOMAIN-SUFFIX,ubisoft.org
+DOMAIN-SUFFIX,ubisoftconnect.com
 DOMAIN-SUFFIX,uplay.com
+#
+# === 育碧云存档 / CDN ===
+DOMAIN,ubisoft-orbit-savegames.s3.amazonaws.com
+DOMAIN,ubisoft-uplay-savegames.s3.amazonaws.com
+DOMAIN,static8.cdn.ubi.com
+#
+# === 育碧反作弊 ===
+DOMAIN-SUFFIX,battlEye.com
