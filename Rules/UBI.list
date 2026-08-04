@@ -1,0 +1,6 @@
+# UBI.list — 育碧游戏规则（ubisoft.com、ubi.com 等）
+DOMAIN-SUFFIX,ubi.com
+DOMAIN-SUFFIX,ubisoft-orbit-savegames.s3.amazonaws.com
+DOMAIN-SUFFIX,ubisoft-uplay-savegames.s3.amazonaws.com
+DOMAIN-SUFFIX,ubisoft.com
+DOMAIN-SUFFIX,uplay.com
